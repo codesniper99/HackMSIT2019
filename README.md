@@ -1,4 +1,7 @@
 # HackMSIT2019
+
+# OPEN VIDEO USING CHROME, FOR UNKNOWN REASONS FIREFOX DOESNT DOWNLOAD THE VIDEO. CHROME WORKS FINE!!
+
 Hi, this is our repository for HackMSIT 2019. Our team is from NSUT, New Delhi. Previously NSIT.
 
 Team Name: Entrepre-Neural
