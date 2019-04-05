@@ -6,6 +6,6 @@ Team Name: Entrepre-Neural
 Team Members:
 
 1. Akhil Vaid
-2. Abhinav Vadhera
+2. Vaibhav Sharma
 3. Sehajpal Singh 
 4. Dalip Patra
